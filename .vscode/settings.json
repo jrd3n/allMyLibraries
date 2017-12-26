@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/jordon/.platformio/penv/bin:/home/jordon/bin:/home/jordon/.local/bin:/home/jordon/bin:/home/jordon/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"
+    }
+}
